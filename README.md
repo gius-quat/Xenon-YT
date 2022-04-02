@@ -13,6 +13,6 @@ Sono un ragazzo a cui gli piace sviluppare bot e app
 ## Contact me ##
 Discord Xenon-YT#7802
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Xenon-YT/langs?time_range=one_year&use_percent=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Xenon-YT/langs?time_range=one_year&include_private=True&compact=True&theme=bright_lights)](https://githubtrends.io)
 
 ** Inspired by *[BlackdestinyXX](https://github.com/blackdestinyxx)***
